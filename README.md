@@ -37,7 +37,7 @@ This project is an AI-powered cybersecurity tool that utilizes Groq AI to analyz
    python -m venv venv
    source venv/bin/activate
    # On Windows use
-   `venv\Scripts\activate`
+   venv\Scripts\activate
    ```
 
 3. **Install dependencies:**
