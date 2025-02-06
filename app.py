@@ -4,7 +4,7 @@ import json
 import groq
 
 # Initialize Groq API Client
-client = groq.Groq(api_key="your_api_key")  # Replace with your actual API key
+client = groq.Groq(api_key="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")  # Replace with your actual API key
 
 def call_groq_api(user_input):
     """Calls the Groq API to analyze cybersecurity threats."""
